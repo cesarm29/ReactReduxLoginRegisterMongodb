@@ -2,7 +2,7 @@
 
 #frontend
 
-aplicacion en react redux en registro y login menu y auth usando bootstrap
+aplicacion en react redux en registro - login - menu y auth usando bootstrap
 
 para ejecutar desde cmd usar npm install luego de esto usar npm start quedara ejecutado en el puerto del localhost:3000
 
